@@ -2,7 +2,7 @@
   
   
   
-### **Project Overview **  
+### **Project Overview**  
   
 This 3-page interactive dashboard transforms raw retail data into a strategic roadmap. It moves beyond high-level KPIs to identify specific "profit bleeders" and prescribes actionable growth paths.   
   
