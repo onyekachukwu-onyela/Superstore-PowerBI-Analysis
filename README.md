@@ -30,7 +30,7 @@ High-level overview of sales trends (2.30M) and seasonal Q4 spikes.
   
   
   
-### **2. Product Profitability (The Deep Dive)**  
+### **2. Product Profitability**  
   
 A diagnostic view isolating **Tables** as the primary profit bleeder, driven largely by aggressive discounting strategies.  
   
@@ -44,7 +44,7 @@ A diagnostic view isolating **Tables** as the primary profit bleeder, driven lar
   
   
   
-### **3. Growth Strategy (The Action)**  
+### **3. Growth Strategy**  
   
 An operational analysis identifying **Consumer segment + Standard Class shipping** as the most efficient path to margin growth.  
   
